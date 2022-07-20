@@ -1,0 +1,30 @@
+body{
+    background-color: #97FF33;
+}
+.navigate{
+    border: 2px black solid;
+}
+h1{
+    text-align: center;
+}
+.SI{
+    margin: auto;
+    width: 20rem;
+    height: 15rem;
+    border: 2px sienna solid;
+    text-align: center;
+    background-color: aqua;
+    
+}
+
+.psw{
+   
+   margin-top: 2%;
+   margin-right: 0.5rem;
+   padding-right:1rem ;
+}
+.signin{
+    
+    margin-top: 3%;
+}
+@media only screen and (max-width: 500px)
